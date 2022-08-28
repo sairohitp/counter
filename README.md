@@ -5,6 +5,6 @@ This is an application to keep track of whatever it is that you need keeping tra
 
 Uses basic concepts of JavaScript
 
-Created for my projects' portfolio, yet, anyone is welcomed & free to clone it.
+Created for my projects' portfolio, yet, anyone is welcome & free to clone it.
 
 Thanks.
