@@ -15,21 +15,16 @@ main {
 .container {
     text-align: center;
     background-color: white;
-
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     gap: 10px;
-
     padding: 10px;
     margin: auto;
-
     border: 1px solid black;
     border-radius: 1000px;
-
     width: fit-content;
     height: fit-content;
-
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.4);
